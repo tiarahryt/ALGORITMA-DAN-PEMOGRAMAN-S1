@@ -2,6 +2,7 @@
 #include<cctype>
 using namespace std;
 void calculateRemainder(){
+  
   int main(){
     cout<<"Program Menghitung Sisa Bagi\n";
     cout<<"-----------------------------\n";
